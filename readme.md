@@ -32,6 +32,7 @@ SQL specification.
 2.0 Examples
 ------------
 
+```php
 $sql = Query::select(array('m.name', 'movie'), array('t.name', 'theatre_name'), 'visited_date')
 	->from(array('visits', 'v'))
 	->join(array('movies', 'm'))->on('v.movie_id', '=', 'm.id')
@@ -41,6 +42,7 @@ $sql = Query::select(array('m.name', 'movie'), array('t.name', 'theatre_name'), 
 	->limit(5)
 	->as_object('MovieVisit')
 	->sql();
+```
 
 
 3.0 Running Tests
