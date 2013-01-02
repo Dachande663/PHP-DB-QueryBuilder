@@ -1,0 +1,8 @@
+{
+	"name": "hybridlogic/db-querybuilder",
+	"description": "SQL Query Builder for easily generating dynamic queries",
+	"keywords": ["db", "mysql", "sql", "query", "querybuilder"],
+	"require": {
+		"php": ">=5.3.0"
+	}
+}
