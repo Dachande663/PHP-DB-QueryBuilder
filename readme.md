@@ -1,7 +1,7 @@
 DB Query Builder
 ====================
 
-A Query Builder for effortlessly composing SQL stamtenets
+A Query Builder for effortlessly composing SQL statements
 with support for executing them against HL\DB.
 
 
@@ -26,7 +26,7 @@ the wrong data into your database ever again.
 Query Builder currently targets the MySQL version of the
 SQL specification.
 
-@todo Add composer dependancy for github.com/Dachande663/PHP-DB
+@todo Add composer dependency for github.com/Dachande663/PHP-DB
 
 
 2.0 Examples
