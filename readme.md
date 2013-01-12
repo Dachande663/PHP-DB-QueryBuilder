@@ -1,8 +1,9 @@
 DB Query Builder
 ====================
 
-A Query Builder for effortlessly composing SQL statements
-with support for executing them against HL\DB.
+A MySQL Query Builder for effortlessly composing SQL
+statements with support for executing them against
+databases.
 
 
 0.0 Table of Contents

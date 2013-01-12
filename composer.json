@@ -1,6 +1,6 @@
 {
 	"name": "hybridlogic/db-querybuilder",
-	"description": "SQL Query Builder for easily generating dynamic queries",
+	"description": "A MySQL Query Builder for effortlessly composing SQL statements with support for executing them against databases.",
 	"keywords": ["db", "mysql", "sql", "query", "querybuilder"],
 	"homepage": "https://github.com/Dachande663/PHP-DB-QueryBuilder",
 	"license": "MIT",
